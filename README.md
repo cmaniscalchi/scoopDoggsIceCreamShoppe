@@ -1,1 +1,1 @@
-This project creates a React application from scratch. The main focus is to formulate a thought process for how to approach a Reach application and implement structure into the creation process.
+A great man once said, "When I'm no longer rapping, I want to open up an ice cream parlor and call myself Scoop Dogg." This is his legacy. 
