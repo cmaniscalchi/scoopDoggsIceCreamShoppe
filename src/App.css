@@ -7,9 +7,11 @@ body {
 }
 
 h1 {
-  font-family: 'Shadows Into Light Two', cursive;
+  font-family: 'Open Sans', sans-serif;
   font-size: 50px;
-  color: #7e7e7e;
+  color: #F5F5F5x;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 .App {
@@ -22,6 +24,6 @@ h1 {
 }
 
 .clicker {
-  margin-left: -67%;
+  margin-left: -75%;
   margin-bottom: 10%;
 }
